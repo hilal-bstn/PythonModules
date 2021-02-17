@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DatetimeModule-1", "DatetimeModule\DatetimeModule-1.pyproj", "{B9E1C4C1-89D3-4056-9385-B93A8C2AA184}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OSmodule-2", "OSmodule-2\OSmodule-2.pyproj", "{397F8F08-458A-46B4-B754-838955E55C4A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReModule-3", "ReModule-3\ReModule-3.pyproj", "{5595B221-E306-4DC8-B1FE-B90DB8CB60C0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JsonModule-4", "JsonModule\JsonModule-4.pyproj", "{80A2FBE1-5962-4673-AAEF-48019008D3CE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RequestsModule", "RequestsModule\RequestsModule.pyproj", "{EDAF14B8-E8BB-42A9-9357-7721B7266B1C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RequestsModuleUygulama1", "RequestsModuleUygulama1\RequestsModuleUygulama1.pyproj", "{EA27ED53-ADB3-4BF8-AB48-3554A5D5CC01}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RequestsModuleUygulama2", "RequestsModuleUygulama2\RequestsModuleUygulama2.pyproj", "{14334E95-B3CA-4BA8-BD6F-D04309102D37}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_BeautifulSoup-5", "_BeautifulSoup-5\_BeautifulSoup-5.pyproj", "{B56407E7-D187-482F-A463-15D8F4A529FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebScraping-6", "WebScraping-6\WebScraping-6.pyproj", "{B72C2F8E-72FC-4C7B-8520-950BB0EF39A6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebScraping-", "WebScraping-\WebScraping-.pyproj", "{417367CD-1F95-49B6-9CD0-3EFB5EC6CF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E1C4C1-89D3-4056-9385-B93A8C2AA184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E1C4C1-89D3-4056-9385-B93A8C2AA184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397F8F08-458A-46B4-B754-838955E55C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397F8F08-458A-46B4-B754-838955E55C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5595B221-E306-4DC8-B1FE-B90DB8CB60C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5595B221-E306-4DC8-B1FE-B90DB8CB60C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A2FBE1-5962-4673-AAEF-48019008D3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A2FBE1-5962-4673-AAEF-48019008D3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAF14B8-E8BB-42A9-9357-7721B7266B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAF14B8-E8BB-42A9-9357-7721B7266B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA27ED53-ADB3-4BF8-AB48-3554A5D5CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA27ED53-ADB3-4BF8-AB48-3554A5D5CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14334E95-B3CA-4BA8-BD6F-D04309102D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14334E95-B3CA-4BA8-BD6F-D04309102D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56407E7-D187-482F-A463-15D8F4A529FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56407E7-D187-482F-A463-15D8F4A529FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72C2F8E-72FC-4C7B-8520-950BB0EF39A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72C2F8E-72FC-4C7B-8520-950BB0EF39A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417367CD-1F95-49B6-9CD0-3EFB5EC6CF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417367CD-1F95-49B6-9CD0-3EFB5EC6CF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39D85A3-7498-4123-AC81-1EB6558B446D}
+	EndGlobalSection
+EndGlobal
